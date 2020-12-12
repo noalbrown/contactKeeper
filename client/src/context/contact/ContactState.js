@@ -22,7 +22,7 @@ const ContactState = (props) => {
         type: 'personal'
       },
       {
-        id: 1,
+        id: 3,
         name: 'sam johnson',
         email: 'sam@gmail.com',
         phone: '333-333-3333',
